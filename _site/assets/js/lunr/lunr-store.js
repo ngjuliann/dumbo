@@ -158,4 +158,9 @@ var store = [{
         "excerpt":"Snail 8By far my favourite so. ","categories": ["Chapter 6"],
         "tags": [],
         "url": "http://localhost:4000/497/",
+        "teaser":null},{
+        "title": "Five Hundred",
+        "excerpt":"5003 Your courage will always be a testament of your faith. ","categories": ["Chapter 6"],
+        "tags": [],
+        "url": "http://localhost:4000/500/",
         "teaser":null}]
