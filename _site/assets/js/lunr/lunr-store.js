@@ -29,7 +29,7 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/13/",
         "teaser":null},{
-        "title": "Thirteen",
+        "title": "Fifteen",
         "excerpt":"Retracted. You dissapeared. I don’t and wouldn’t have understand why in the moment. Looking back, I’m glad you did. You did what you had to do. I think I was more shocked that that it just happened so fast. What did I do so wrong? ","categories": ["Chapter 1"],
         "tags": [],
         "url": "http://localhost:4000/15/",
@@ -130,7 +130,7 @@ var store = [{
         "url": "http://localhost:4000/478/",
         "teaser":null},{
         "title": "Four Hundred Eighty Six",
-        "excerpt":"Snail 5Welp Can Post office messed up and undercharged you for snails 3 &amp; 4, so they’re bouncing back to you. In the mean time, snail five shows up. ","categories": ["Chapter 6"],
+        "excerpt":"Snail 5Welp Can Post office messed up and undercharged you for snails 3 &amp; 4, so they’re bouncing back to you. In the mean time, snail five showed up. ","categories": ["Chapter 6"],
         "tags": [],
         "url": "http://localhost:4000/486/",
         "teaser":null},{
